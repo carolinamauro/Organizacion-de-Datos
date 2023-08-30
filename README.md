@@ -6,6 +6,7 @@ Incluye
 - Resumen todas las clases
 - Guía de ejercicios
 - Resolución de los finales
+
 https://www.notion.so/cmauro-fiuba/Organizaci-n-de-datos-4ab64fbef09a49d8a95bf4059fb3fda4?pvs=4
 
 ## Mi final
