@@ -7,7 +7,7 @@ Incluye
 - Guía de ejercicios
 - Resolución de los finales
 
-https://www.notion.so/cmauro-fiuba/Organizaci-n-de-datos-4ab64fbef09a49d8a95bf4059fb3fda4?pvs=4
+https://cmauro-fiuba.notion.site/Organizaci-n-de-datos-4ab64fbef09a49d8a95bf4059fb3fda4?pvs=4
 
 ## Mis TPS
 En rasgos generales recuerdo que me fue bien en los tps (bien = aprobar, 4 nota lo demás lujo)
